@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "chrome",
+    "Location": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "BoostMode": "Disabled"
+  },
+  {
+    "Name": "devenv",
+    "Location": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+    "BoostMode": "Disabled"
+  },
+  {
+    "Name": "vibranceGUI",
+    "Location": "C:\\Users\\Windows G\\Desktop\\vibranceGUI.exe",
+    "BoostMode": "Disabled"
+  },
+  {
+    "Name": "Brawlhalla",
+    "Location": "D:\\Jocuri\\Steam\\steamapps\\common\\Brawlhalla\\Brawlhalla.exe",
+    "BoostMode": "Enabled"
+  }
+]
